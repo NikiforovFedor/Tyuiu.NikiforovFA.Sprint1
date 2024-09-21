@@ -25,8 +25,8 @@ namespace Tyuiu.NikiforovFA.Sprint1.Task1.V14
             y = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("* Результат:                                                              *");
-            Console.WriteLine(ds.Calculate(x,y));
-            
+            Console.WriteLine(ds.Calculate(x, y));
+
         }
     }
 }
