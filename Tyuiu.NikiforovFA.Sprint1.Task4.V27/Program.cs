@@ -23,7 +23,7 @@ namespace Tyuiu.NikiforovFA.Sprint1.Task4.V27
             Console.Write("* Введите y: ");
             y = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("* Результат:                                                              *");
-            Console.WriteLine(Math.Round(ds.Calculate(x,y),3));
+            Console.WriteLine(ds.Calculate(x,y));
         }
     }
 }
