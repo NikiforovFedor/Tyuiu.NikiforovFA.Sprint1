@@ -15,7 +15,7 @@ namespace Tyuiu.NikiforovFA.Sprint1.Task4.V27
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу, которая, запросив данные у пользователя,            *");
-            Console.WriteLine("* вычисляет результат по формуле (1+sin(Pix)/(x-sqrt(abs(y))))            *");
+            Console.WriteLine("* вычисляет результат по формуле 1+sin(Pix)/(x-sqrt(abs(y)))              *");
             Console.WriteLine("***************************************************************************");
             double x,y;
             Console.Write("* Введите x: ");
