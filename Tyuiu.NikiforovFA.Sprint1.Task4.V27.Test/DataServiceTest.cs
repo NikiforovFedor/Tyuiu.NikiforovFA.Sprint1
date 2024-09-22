@@ -10,7 +10,7 @@ namespace Tyuiu.NikiforovFA.Sprint1.Task4.V27.Test
             DataService ds = new DataService();
             double x = 3, y = 1;
             double r = 2;
-            Assert.AreEqual(1, ds.Calculate(x, y));
+            Assert.AreEqual(0.5, ds.Calculate(x, y));
             
         }
     }
