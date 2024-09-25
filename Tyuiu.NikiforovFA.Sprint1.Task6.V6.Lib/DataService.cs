@@ -21,10 +21,6 @@ namespace Tyuiu.NikiforovFA.Sprint1.Task6.V6.Lib
                 }
             }
             return r;
-
-
-
-
         }
     }
 }
