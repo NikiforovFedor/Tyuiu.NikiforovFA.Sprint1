@@ -28,6 +28,7 @@ namespace Tyuiu.NikiforovFA.Sprint1.Task7.V1
             Console.WriteLine("Введите c: ");
             c = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Z = {0}", ds.Calculate(a, b, c));
+            Console.WriteLine(Math.E);
         }
     }
 }

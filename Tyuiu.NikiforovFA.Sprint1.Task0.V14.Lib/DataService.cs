@@ -3,7 +3,7 @@ namespace Tyuiu.NikiforovFA.Sprint1.Task0.V14.Lib
 {
     public class DataService : ISprint1Task0V14
     {
-        public double Calculate()
+        public double Calculate1()
         {
             return 2 * 3 * 3 + 7;
         }
